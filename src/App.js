@@ -17,10 +17,7 @@ function App() {
         >
          *** Learn DevOps from Bheema ***
         </a>
-      </header>
-    </div>
-  );
-  const userDetailsList = [
+            const userDetailsList = [
   {
     uniqueNo: 1,
     imageUrl:
@@ -62,5 +59,9 @@ const App = () => (
   </div>
 )
 }
+      </header>
+    </div>
+  );
+  
 
 export default App;
